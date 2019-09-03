@@ -1,0 +1,11 @@
+body {
+    color: #FFFFFF;
+    font-family: "Times New Roman";
+}
+
+section#main {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
